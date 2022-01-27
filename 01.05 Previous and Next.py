@@ -5,4 +5,3 @@ first = "The next number for the number " + str(digit) + " is " + str(x) + "."
 second = "The previous number for the number " + str(digit) + " is " + str(y) + "."
 print(first)
 print(second)
-
